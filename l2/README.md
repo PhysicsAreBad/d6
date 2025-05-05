@@ -2,8 +2,8 @@
 
 Screenshots:
 
-!(hostname & env)[one.png]
-!(ps -> df)[two.png]
-!(file manipulation)[three.png]
-!(uname)[four.png]
-!(ping)[five.png]
+![hostname & env](one.png)
+![ps -> df](two.png)
+![file manipulation](three.png)
+![uname](four.png)
+![ping](five.png)
